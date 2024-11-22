@@ -2,3 +2,4 @@ gunicorn
 django == 5.1.3
 django-environ== 0.11.2
 bootstrap-py==2.0.0
+whitenoise==6.8.2 
